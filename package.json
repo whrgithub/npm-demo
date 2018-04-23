@@ -1,0 +1,18 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "whr",
+    "txt": "node index.js"
+  },
+  "keywords": [
+    "npm-hello"
+  ],
+  "author": "whr",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
